@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">CA1-20344</string>
+
+    <string name="Darjelling"> 8.50 per 100 gram bag </string>
+    <string name="Assam"> 7.50 per 100 gram bag </string>
+    <string name="Lapsang"> 9.5 per 100 gram bag </string>
+    <string name="Earl_Grey"> 3.5 per 100 gram bag </string>
+    <string name="Irish_Breakfast"> 2.5 per 100 gram bag </string>
+
 </resources>
